@@ -9,23 +9,23 @@ category:  learning notes
 
 ## 始め方
 
-1. [jekyll-now](https://github.com/barryclark/jekyll-now)をクローンする
+#### 1. [jekyll-now](https://github.com/barryclark/jekyll-now)をクローンする
 
-2. クローンしたリポジトリ名を `YourGithubUserName.github.io` に変更する
+#### 2. クローンしたリポジトリ名を `YourGithubUserName.github.io` に変更する
 
   例えば，githubアカウントが `HOGE` の場合，以下のようになる．
 
-  ```
+  {% highlight %}
   # 変更前
   HOGE/jekyll-now
 
   # 変更後
   HOGE/HOGE.github.io
-  ```
+  {% endhighlight %}
 
   https://HOGE.github.io にアクセスすると，ホームページができている
 
-3. 好きなレイアウトを探す
+#### 3. 好きなレイアウトを探す
 
   [Jekyll Themes](http://jekyllthemes.org/) or [jekyllthemes](https://jekyllthemes.io/) より好きなレイアウトを探す
 
@@ -37,11 +37,11 @@ category:  learning notes
 
   正直，[オリジナルのリポジトリ](https://github.com/projectpages/project-pages)からフォークして，リポジトリ名を変更した方が楽な気がする
 
-3. `_config.yml` `画像` `projects` などを編集する
+#### 4. `_config.yml` `画像` `projects` などを編集する
 
   コピペでは不必要なものが存在したので，以下のものを削除
 
-  ```
+  {% highlight %}
   CNAME
   404.md
   members.html
@@ -49,9 +49,9 @@ category:  learning notes
   style.scss
   _sass/
   images/
-  ```
+  {% endhighlight %}
 
-4. 完成
+#### 5. 完成
 
 
 
