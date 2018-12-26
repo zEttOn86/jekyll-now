@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+description: "Why use Project Pages?"
+header-img: "img/home-bg.jpg"
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+	
