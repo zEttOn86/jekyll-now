@@ -15,13 +15,13 @@ category:  learning notes
 
   例えば，githubアカウントが `HOGE` の場合，以下のようになる．
 
-  {% highlight %}
+  ```
   # 変更前
   HOGE/jekyll-now
 
   # 変更後
   HOGE/HOGE.github.io
-  {% endhighlight %}
+  ```
 
   https://HOGE.github.io にアクセスすると，ホームページができている
 
@@ -41,7 +41,7 @@ category:  learning notes
 
   コピペでは不必要なものが存在したので，以下のものを削除
 
-  {% highlight %}
+  ```
   CNAME
   404.md
   members.html
@@ -49,7 +49,7 @@ category:  learning notes
   style.scss
   _sass/
   images/
-  {% endhighlight %}
+  ```
 
 #### 5. 完成
 
