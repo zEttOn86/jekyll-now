@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Who am I?"
-header-img: "img/home-bg.jpg"
+header-img: "img/2018-12-27-home-bg.jpg"
 ---
 
 ### Who am I ?
@@ -11,4 +11,8 @@ header-img: "img/home-bg.jpg"
 
 ### 目的
 
-勉強したことをまとめる
+もったいないので，勉強したことをまとめる
+
+### 好きなこと
+
+身体を動かすこと
