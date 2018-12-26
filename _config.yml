@@ -1,16 +1,16 @@
 # Site settings
 title: Learning notes
 description: "An Integrated Scientific Blogging Template"
-url: "https://zetton86.github.io/"
+url: "https://zEttOn86.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/zetton86.github.io"
+baseurl: "/zEttOn86.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /zetton86.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /zEttOn86.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  zEttOn86
