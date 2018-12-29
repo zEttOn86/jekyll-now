@@ -3,7 +3,7 @@ layout:    post
 title:     githubを用いたウェブサイトの作り方
 author:    zEttOn86
 tags:      post notes github
-subtitle:  github.ioを用いて，ウェブサイトを作る
+subtitle:  github pagesを用いて，ウェブサイトを作る
 category:  learning notes
 ---
 
